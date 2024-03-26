@@ -45,16 +45,6 @@ describe('memoize', () => {
 
     })
 
-    /*
 
-    it('hauria de tornar un valor memoizado si es crida dues vegades', () => {
-        const func = jest.fn()
-        const funcProva = memoize(func)
-
-        funcProva()
-        funcProva()
-
-    })
-*/
 
 })
